@@ -20,7 +20,7 @@ The primary goal of **RogueEscape** is to implement an intelligent movement stra
 ### Setup Instructions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RogueEscape.git
+   git clone https://github.com/yyy1029/RogueEscape.git
 ````
 
 2. Navigate to the project directory:
